@@ -1,0 +1,30 @@
+# hello wrld in different langs
+
+python > print("Hello World
+
+
+node.js > console.log("Hello World")
+
+
+php > <?php echo "Hello, World"; 
+
+
+perl > print "Hello, World!\n";
+
+
+pascal > program HelloWorld(output);
+begin
+  Write('Hello, world!')
+end.
+
+
+lisp > (print "Hello world")
+
+
+java > class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+
+groovy > println "Hello World"
